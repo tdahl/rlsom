@@ -10,7 +10,7 @@ from mpl_toolkits.mplot3d import Axes3D
 #==========================================
 # SOM for Viviani's curve
 #==========================================
-#git test
+#git test2
 
 STATE_SIZE = 3
 ACTION_SIZE = 3
